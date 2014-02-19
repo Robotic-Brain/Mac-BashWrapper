@@ -1,6 +1,6 @@
 
-CC = gcc
-RM = rm -rf
+CC = gcc -O3
+RM = rm -rfv
 MKDIR = mkdir -pv
 
 BUILD_DIR = ./build
