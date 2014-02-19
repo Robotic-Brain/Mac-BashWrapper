@@ -1,10 +1,6 @@
 
-#include <stddef.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <errno.h>
-#include <string.h>
-#include <regex.h>
 
 const int c_pathArg = 0;    // argument to extract path from
 
